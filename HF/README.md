@@ -1,7 +1,7 @@
 ---
-title: Chat2More
-emoji: 🔥
-colorFrom: yellow
+title: Chat-Plus
+emoji: ➕
+colorFrom: pink
 colorTo: blue
 sdk: gradio
 sdk_version: 5.0.1
