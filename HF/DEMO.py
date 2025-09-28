@@ -4,7 +4,7 @@ import DEF
 
 model_list = list(STIMA_MODELS.keys())
 
-with gr.Blocks(theme=gr.themes.Soft(), title="Chat-2-More") as demo:
+with gr.Blocks(theme=gr.themes.Soft(), title="Chat-Plus") as demo:
     gr.Markdown("# 📝 比較多種模型的輸出結果（with StimaAPI）")
     
     # 主要功能區域
